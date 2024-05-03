@@ -1,4 +1,9 @@
 # DELMAS Denis & EDMEE Léon - Projet
+----
+> [!IMPORTANT]
+> Le code source du projet étant trop lourd, nous l'avons compressé en .zip
+
+
 
 Class : 1I - E3FI - 2023 - ESIEE Paris
 
@@ -13,9 +18,6 @@ Tags: 23_E3FI_3I_IN11 - Infographie 3D, SpaceShip, Space, Missiles
 Classification : PEGI 7
 
 
-----
-> [!IMPORTANT]
-> Le code source du projet étant trop lourd, nous l'avons compressé en .zip
 
 
 Classification PEGI 7 : 
