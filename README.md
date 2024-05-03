@@ -4,13 +4,13 @@ Class : 1I - E3FI - 2023 - ESIEE Paris
 Students : EDMEE Léon (leon.edmee@edu.esiee.fr)
                    DELMAS Denis (delmas.denis@edu.esiee.fr)
 
-Classification PEGI : 
+Classification PEGI 7 : 
 
 - Les missiles et les bruits d’explosion peuvent effrayer les jeunes enfants
 - De plus la musique angoissante peut les stresser
 - Le jeu ne présente pas de violence explicite (insultes, armes, sang) ou de transactions en ligne.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ade236d4-b607-4bed-91db-242f59765876/1d900bcc-dcca-4c51-ae15-062545e8b606/Untitled.png)
+
 
 Source : https://pegi.info/fr/page/que-signifient-les-logos
 
@@ -84,12 +84,3 @@ Le héro que vous incarnez est le lieutenant colonel divisionnaire maréchal des
 
 `Dans ce moment critique, le destin d'Azure AD repose entre les mains du lieutenant colonel NIDAL et de son équipage dévoué. Ils sont prêts à tout sacrifier pour assurer la survie de leur foyer et repousser l'invasion extra-terrestre.” - Journal de Bord du vaisseau mère` 
 
-# Extraits de code
-
-Gestion du mouvement
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ade236d4-b607-4bed-91db-242f59765876/4455b3f1-f7ce-462b-9459-ca6b71dff972/Untitled.png)
-
-RB = Bouton droit de la manette, LB = Bouton Gauche
-
-Gestion du missile
