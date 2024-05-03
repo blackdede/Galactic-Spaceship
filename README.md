@@ -8,6 +8,8 @@
 Class : 1I - E3FI - 2023 - ESIEE Paris
 
 
+Notion: https://www.notion.so/E3FI-1I-EDMEE-L-on-DELMAS-Denis-Unity-Course-a06d23a1d57840e6bd7b5098535a3145#4dc75903f4974c73896bd9388cec94f3
+
 Students : EDMEE Léon (leon.edmee@edu.esiee.fr)
                    DELMAS Denis (delmas.denis@edu.esiee.fr)
 
